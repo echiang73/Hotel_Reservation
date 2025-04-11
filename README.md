@@ -1,0 +1,1 @@
+Project #1 for Udacity Full Stack Java Developer Nanodegree. Java application using command line interface in which customers can create an account, search room availability, and book a room. Hotel administrators can create new rooms, view all reserved rooms and users.
