@@ -7,6 +7,9 @@ This project demonstrate the abilities to design classes using OOP, organize and
 You may run the project by executing the entry point [Main.main() method](/src/Main.java)
 or using [Driver.main() method](/src/Driver.java) containing pre-populated rooms and customer data.
 
+![Hotel Reservation App](/src/assets/hotelResAppPreview.gif)
+
+
 ## Application Architecture
 The app will be separated into the following structure or architecture layers:
 
