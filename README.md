@@ -11,6 +11,7 @@ The app will be separated into the following structure or architecture layers:
 2. <b> Resources</b> will act as our Application Programming Interface (API) to our UI.
 3. <b> Services</b> will communicate with our resources, and each other, to build the business logic necessary to provide feedback to our UI.
 4. <b> Data models</b> will be used to represent the domain that we're using within the system (e.g., rooms, reservations, and customers).
+<img src="/src/assets/hotelreservation01.png" width="600" height="247">
 ![Hotel Reservation](/src/assets/hotelreservation01.png)
 
 ## Project Requirements
