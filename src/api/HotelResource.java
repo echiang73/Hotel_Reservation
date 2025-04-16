@@ -4,8 +4,8 @@ import model.Customer;
 import model.IRoom;
 import model.Reservation;
 import model.Room;
-import source.CustomerService;
-import source.ReservationService;
+import service.CustomerService;
+import service.ReservationService;
 
 import java.util.*;
 

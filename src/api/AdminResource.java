@@ -3,13 +3,13 @@ package api;
 import model.Customer;
 import model.IRoom;
 import model.Room;
-import source.CustomerService;
-import source.ReservationService;
+import service.CustomerService;
+import service.ReservationService;
 
 import java.util.List;
 import java.util.Map;
 
-import static source.ReservationService.*;
+import static service.ReservationService.*;
 
 public class AdminResource {
 

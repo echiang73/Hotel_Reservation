@@ -2,8 +2,8 @@ import api.HotelResource;
 import model.Customer;
 import model.Room;
 import model.RoomType;
-import source.CustomerService;
-import source.ReservationService;
+import service.CustomerService;
+import service.ReservationService;
 import ui.MainMenu;
 
 import java.util.Calendar;

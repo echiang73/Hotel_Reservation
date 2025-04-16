@@ -3,7 +3,7 @@ package ui;
 import api.AdminResource;
 import api.HotelResource;
 import model.*;
-import source.ReservationService;
+import service.ReservationService;
 
 import java.util.ArrayList;
 import java.util.Calendar;

@@ -2,7 +2,7 @@ package ui;
 
 import api.AdminResource;
 import model.*;
-import source.CustomerService;
+import service.CustomerService;
 
 import java.util.*;
 
