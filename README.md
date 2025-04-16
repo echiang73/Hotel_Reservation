@@ -4,6 +4,9 @@ This is Project #1 for the Udacity's [Full Stack Java Developer Nanodegree Progr
 The goal was to create a Java application which allows users to book and manage hotel room reservations using command line interface (CLI).
 This project demonstrate the abilities to design classes using OOP, organize and process data with collections, and use common Java types.
 
+You may run the project by executing the entry point [Main.main() method](/src/Main.java)
+or using [Driver.main() method](/src/Driver.java) containing pre-populated rooms and customer data.
+
 ## Application Architecture
 The app will be separated into the following structure or architecture layers:
 
